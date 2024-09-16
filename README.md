@@ -4,6 +4,7 @@ Proyek ini adalah sebuah program Python yang menggunakan modul turtle untuk meng
 Cara Menggunakan:
 
 1.Instal Python: Pastikan Anda sudah menginstal Python di komputer Anda.
+
 2.Salin Kode: Salin kode Python berikut ke dalam file .py, misalnya draw_heart.py:
 
 import turtle
